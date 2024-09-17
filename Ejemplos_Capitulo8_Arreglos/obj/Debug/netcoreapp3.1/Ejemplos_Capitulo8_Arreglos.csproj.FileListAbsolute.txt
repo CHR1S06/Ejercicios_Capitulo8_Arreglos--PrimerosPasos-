@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\bin\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.exe
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\bin\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.deps.json
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\bin\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.runtimeconfig.json
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\bin\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\bin\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.dll
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\bin\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.pdb
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\obj\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\obj\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\obj\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\obj\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\obj\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.dll
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\obj\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.pdb
+C:\Users\UserGPC\source\repos\Ejemplos_Capitulo8_Arreglos\Ejemplos_Capitulo8_Arreglos\obj\Debug\netcoreapp3.1\Ejemplos_Capitulo8_Arreglos.genruntimeconfig.cache
